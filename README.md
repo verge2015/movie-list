@@ -23,6 +23,8 @@ movie-list is NodeJS code for searching and getting movie list then convert it t
 
 ## Installation
 ```bash
+ npm i
+OR
  npm i jsonexport
  npm i axios
 ```
